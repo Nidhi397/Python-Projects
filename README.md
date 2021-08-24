@@ -1,2 +1,2 @@
-# learning_git
-Repository to learn how to use GitHub
+# My Python Projects
+This Repository contains the personal projects i built using the Python Programming Language.
